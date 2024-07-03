@@ -13,8 +13,8 @@ Here are some of the projects I've worked on:
 Churn Dashboard
 A Power BI dashboard designed to visualize and analyze customer churn. This dashboard provides key insights into customer retention, churn rates, and related metrics to help businesses understand and mitigate churn effectively.
 
-cereals analysis
-SALES DATA ANALYSIS
+cereals analysis,
+SALES DATA ANALYSIS,instagram user analysis.
 
 
 
